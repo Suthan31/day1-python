@@ -1,0 +1,8 @@
+Distributed version control
+installation of git and account creation for github
+git clone "repository link"
+git checkout -b "brach name" - to create a brach from MAIN
+git add "filename" - add to branch
+git status
+git commit -m "description"- commit to staging repository 
+git push origin "branch name"- gets pushed into Actual rep 
